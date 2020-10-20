@@ -1,5 +1,5 @@
 //Created by David Abellán Navarro 1ºDAM
-//https://github.com/Naabda/Ejercicio4/main/Ejercicio4DavidAbellanNavarro.java
+//https://github.com/Naabda/Ejercicio4/blob/main/Ejercicio4DavidAbellanNavarro.java
 package EjerciciosEntregados;
 
 import java.util.Scanner;
